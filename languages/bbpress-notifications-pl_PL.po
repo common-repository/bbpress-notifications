@@ -1,0 +1,134 @@
+# Copyright (C) 2012 bbPress Notify
+# This file is distributed under the same license as the bbPress Notify package.
+msgid ""
+msgstr ""
+"Project-Id-Version: bbPress Notifications\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/bbpress-notify\n"
+"POT-Creation-Date: 2013-06-26 15:35+0100\n"
+"PO-Revision-Date: 2013-06-26 15:36+0100\n"
+"Last-Translator: Bartosz Arendt <info@digitalfactory.pl>\n"
+"Language-Team: Digital Factory <info@digitalfactory.pl>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../bbpress-notifications.php:32
+msgid "[[blogname]] New topic: [topic-title]"
+msgstr "[[blogname]] Nowy temat: [topic-title]"
+
+#: ../bbpress-notifications.php:33
+msgid ""
+"Hello!\n"
+"\n"
+"A new topic has been posted by [topic-author].\n"
+"\n"
+"Topic title: [topic-title]\n"
+"Topic url: [topic-url]\n"
+"\n"
+"Topic excerpt:\n"
+"[topic-excerpt]\n"
+"\n"
+"Notify message by bbPress Notifications"
+msgstr ""
+"Witaj!\n"
+"\n"
+"Na forum pojawił się nowy temat dodany przez [topic-author].\n"
+"\n"
+"Tytuł tematu: [topic-title]\n"
+"Link do tematu: [topic-url]\n"
+"\n"
+"Skrót tematu:\n"
+"[topic-excerpt]\n"
+"Powiadomienie zostało wysłane przez bbPress Notifications"
+
+#: ../bbpress-notifications.php:35
+msgid "[[blogname]] New reply to: [topic-title]"
+msgstr "[[blogname]] Nowa odpowiedź do: [topic-title]"
+
+#: ../bbpress-notifications.php:36
+msgid ""
+"Hello!\n"
+"\n"
+"A new reply has been posted by [reply-author].\n"
+"\n"
+"Topic title: [topic-title]\n"
+"Reply url: [reply-url]\n"
+"\n"
+"Reply excerpt:\n"
+"[reply-excerpt]\n"
+"\n"
+"Notify message by bbPress Notifications"
+msgstr ""
+"Witaj!\n"
+"\n"
+"Na forum pojawiła się nowa odpowiedź dodana przez [reply-author].\n"
+"\n"
+"Tytuł odpowiedzi: [reply-title]\n"
+"Link do odpowiedzi: [reply-url]\n"
+"\n"
+"Skrót odpowiedzi:\n"
+"[reply-excerpt]\n"
+"Powiadomienie zostało wysłane przez bbPress Notifications"
+
+#: ../bbpress-notifications.php:69
+msgid "Sorry, you need to activate bbPress first."
+msgstr "Przykro nam, ale najpierw musisz zainstalować forum bbPress."
+
+#: ../bbpress-notifications.php:88
+msgid "E-mail Notifications"
+msgstr "Powiadomienia email"
+
+#: ../bbpress-notifications.php:91
+msgid "New Topic Email Addresses"
+msgstr "Adresy email dla powiadomień o nowych tematach"
+
+#: ../bbpress-notifications.php:92
+msgid "New Topic Email Subject"
+msgstr "Tytuł emaila z powiadomieniem o nowym temacie"
+
+#: ../bbpress-notifications.php:93
+msgid "New Topic Email Body"
+msgstr "Treść emaila z powiadomieniem o nowym temacie"
+
+#: ../bbpress-notifications.php:94
+msgid "New Reply Email Addresses"
+msgstr "Adresy email dla powiadomień o nowych odpowiedziach"
+
+#: ../bbpress-notifications.php:95
+msgid "New Reply Email Subject"
+msgstr "Tytuł emaila z powiadomieniem o nowej odpowiedzi"
+
+#: ../bbpress-notifications.php:96
+msgid "New Reply Email Body"
+msgstr "Treść emaila z powiadomieniem o nowej odpowiedzi"
+
+#: ../bbpress-notifications.php:112
+msgid ""
+"Configure e-mail notifications when new topics and/or replies are posted."
+msgstr "Skonfiguruj ustawienia powiadomień o nowych tematach i odpowiedziach."
+
+#: ../bbpress-notifications.php:124
+msgid ""
+"Email addresses to be notified when a new topic is posted. One per line."
+msgstr ""
+"Adresy email na któe zostaną wysłane powiadomienia o nowym temacie. Każdy "
+"email w oddzielnej linii."
+
+#: ../bbpress-notifications.php:133
+msgid ""
+"Email addresses to be notified when a new reply is posted. One per line."
+msgstr ""
+"Adresy email na które zostaną wysłane powiadomienia o nowej odpowiedzi. "
+"Każdy email w oddzielnej linii."
+
+#: ../bbpress-notifications.php:145 ../bbpress-notifications.php:154
+#: ../bbpress-notifications.php:166 ../bbpress-notifications.php:175
+msgid "Shortcodes:"
+msgstr "Dostępne skróty:"
+
+#~ msgid "[[blogname]] New reply: [reply-title]"
+#~ msgstr "[[blogname]] Nowa odpowiedź: [reply-title]"
